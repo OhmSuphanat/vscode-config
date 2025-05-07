@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "Dainty – One Dark Pro (chroma 0, lightness 1)",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontFamily": "'MesloLGS NF'",
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.fontWeightBold": "bold",
+    "files.autoSave": "afterDelay",
+    "makefile.configureOnOpen": true,
+    "inlineChat.holdToSpeech": false,
+    "vscode_custom_css.imports": [
+        "file:///Users/suphanat/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.4/dist/updateHandler.js"
+    ],
+    "editor.wordWrap": "on",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "svelte.enable-ts-plugin": true,
+    "[dockercompose]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.suggest.completeFunctionCalls": true
+}
